@@ -18,7 +18,7 @@ public class PruebaCine {
 
 			switch (opcion) {
 			case 1: {
-				System.out.println("------Hotys------/n");
+				System.out.println("------Hoyts Cine------/n");
 				System.out.println("1 - Entrada individual/n");
 				System.out.println("2 - Entrada en grupo/n");
 				System.out.println("Probando");
